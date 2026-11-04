@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T17:39:55.359Z",
+  "generated_at": "2026-11-04T18:11:48.522Z",
   "items": {
     "math:106": {
       "kind": "math",
@@ -11,6 +11,19 @@
       "path": "math/0106-naive-bayes-and-the-conditional-independence-assumption",
       "first_solved_at": "2026-11-02T17:39:48.980Z",
       "last_pushed_at": "2026-11-02T17:39:48.980Z"
+    },
+    "problem:261": {
+      "kind": "problem",
+      "id": "261",
+      "title": "Gaussian Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/261",
+      "path": "problems/0261-gaussian-naive-bayes-classifier",
+      "first_solved_at": "2026-11-04T18:11:40.605Z",
+      "last_pushed_at": "2026-11-04T18:11:40.605Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
